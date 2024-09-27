@@ -152,9 +152,9 @@ h1 {
 }
 
 h2 {
-    font-size: small;
+    font-size: 1rem;
     color: #161616;
-    margin-bottom: 10px;
+    margin-bottom: auto;
 }
 
 .photo-frame {
